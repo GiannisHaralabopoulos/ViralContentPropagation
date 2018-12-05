@@ -17,7 +17,7 @@ Scrapped data is stored in "tab" separated .txt files.
 The headers are as follows:
 - Reddit Url
 - Domain Url
-- Submitted Subreddit
+- Submitted in Subreddit
 - Sum of positive and negative votes in reddit
   - Formatted as a ":" separated timeseries
 - Twitter mentions of either Reddit or Domain Url
