@@ -1,8 +1,8 @@
 # ViralContentPropagation
 
 A collection of scraped submissions from Reddit, ImgUr, and Youtube, as described in:
-  - https://www.sciencedirect.com/science/article/pii/S1084804515001307
-  - https://arxiv.org/abs/1712.02245
+  - [Lifespan and propagation of information in On-line Social Networks: A case study based on Reddit](https://www.sciencedirect.com/science/article/pii/S1084804515001307)
+  - [Viral content propagation in Online Social Networks](https://arxiv.org/abs/1712.02245)
 
 **Please cite the aforementioned papers in case you find the dataset useful for your research.**
 
