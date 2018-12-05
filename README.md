@@ -5,3 +5,5 @@ A collection of scraped submissions from Reddit, ImgUr, and Youtube, as describe
   - https://arxiv.org/abs/1712.02245.
 
 The data is named as **OriginatingDomain_ScrappedFromSubreddit.txt**
+
+## Data headers
