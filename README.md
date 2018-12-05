@@ -15,7 +15,7 @@ The headers are as follows:
 - Domain Url
 - Submitted Subreddit
 - Sum of positive and negative votes in reddit
-  - t0:t1:...:tn
+  - Formatted as a ":" separated timeseries
 - Twitter mentions of either Reddit or Domain Url
   - Formatted as a ":" separated timeseries
 - Facebook mentions of either Reddit or Domain Url
