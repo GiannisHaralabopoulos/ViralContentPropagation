@@ -8,7 +8,7 @@ The data is named as **OriginatingDomain_ScrappedFromSubreddit.txt**
 
 ## Data headers
 
-Scrapped data is stored in tab separated .tx files.
+Scrapped data is stored in "tab" separated .txt files.
 
 The headers are as follows:
 - Reddit Url
