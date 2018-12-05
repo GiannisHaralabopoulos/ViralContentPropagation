@@ -4,6 +4,10 @@ A collection of scraped submissions from Reddit, ImgUr, and Youtube, as describe
   - https://www.sciencedirect.com/science/article/pii/S1084804515001307
   - https://arxiv.org/abs/1712.02245
 
+**Please cite the aforementioned papers in case you find the dataset useful for your research.**
+
+## Data filename
+
 The data is named as **OriginatingDomain_ScrappedFromSubreddit.txt**
 
 ## Data headers
